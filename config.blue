@@ -1,6 +1,6 @@
 #Sun Jun 10 20:28:55 CEST 2018
 cleverbotAPIKey=YOURCLEVERBOTAPIKEY
-botToken=YOURTOKENHERE
+botToken=NTc0MjM3OTg2Mjg0MTA5ODM2.XM2jOw.Um7e-YwwrLGxutfPBWfWaPnecZ0
 twitchChannel={}
 selfAssignedRolesList={}
 botActivity=type \!help for help
@@ -13,7 +13,7 @@ musicChannel={}
 userEventChannel={}
 streamerList={}
 prefixes={}
-botOwner=YOURIDHERE
+botOwner=574237986284109836
 autoRoleList={}
 embedColor=\#0088FF
 userEventsMessages={}
